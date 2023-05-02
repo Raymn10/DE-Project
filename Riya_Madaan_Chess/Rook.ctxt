@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Rook
+comment1.params=cd
+comment1.target=Rook(int)
+comment2.params=
+comment2.target=java.util.List\ getLegalPositions()
+numComments=3
